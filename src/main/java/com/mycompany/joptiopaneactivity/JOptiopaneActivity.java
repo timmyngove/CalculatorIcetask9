@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author RC_Student_lab
+ * @author TRimmyngove
  */
 public class JOptiopaneActivity {
 
